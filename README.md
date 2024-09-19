@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dungx_dev
-- 👀 I’m interested in technology( embedded, machine learning, AI ) 
+- 👀 I’m interested in technology( electronic, programmer ) 
 - 🌱 I’m currently learning UET university
 - 📫 How to reach me ...
 
